@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: fa6da9ceff6d5254eb19bcacdf1b0c42
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Averia Sans Libre
+  fontNames:
+  - Averia Sans Libre
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b8659767d044e3d48a8d08bbb4e544b8, type: 3}
+  - {fileID: 12800000, guid: 3939e4ca12a465e48aeab7611ea248b5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
